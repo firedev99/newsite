@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/newsite/static/css/main.6eda4740.chunk.css",
+    "main.js": "/newsite/static/js/main.4b3d8e0e.chunk.js",
+    "main.js.map": "/newsite/static/js/main.4b3d8e0e.chunk.js.map",
+    "runtime-main.js": "/newsite/static/js/runtime-main.740d5bbe.js",
+    "runtime-main.js.map": "/newsite/static/js/runtime-main.740d5bbe.js.map",
+    "static/js/2.8e5b00ff.chunk.js": "/newsite/static/js/2.8e5b00ff.chunk.js",
+    "static/js/2.8e5b00ff.chunk.js.map": "/newsite/static/js/2.8e5b00ff.chunk.js.map",
+    "index.html": "/newsite/index.html",
+    "precache-manifest.7080fcc30fbb47d9091ec8fdefc422cd.js": "/newsite/precache-manifest.7080fcc30fbb47d9091ec8fdefc422cd.js",
+    "service-worker.js": "/newsite/service-worker.js",
+    "static/css/main.6eda4740.chunk.css.map": "/newsite/static/css/main.6eda4740.chunk.css.map",
+    "static/js/2.8e5b00ff.chunk.js.LICENSE.txt": "/newsite/static/js/2.8e5b00ff.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/newsite/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/newsite/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/newsite/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/newsite/static/media/lumin-min.379bad94.png",
+    "static/media/up-arrow-circle.942c81fd.svg": "/newsite/static/media/up-arrow-circle.942c81fd.svg",
+    "static/media/yourspace-min.png": "/newsite/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.740d5bbe.js",
+    "static/js/2.8e5b00ff.chunk.js",
+    "static/css/main.6eda4740.chunk.css",
+    "static/js/main.4b3d8e0e.chunk.js"
+  ]
+}
